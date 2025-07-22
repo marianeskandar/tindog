@@ -1,0 +1,21 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Title section styles */
+#title {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+#title h1 {
+  color: #343a40;
+}
+
+#title button {
+  margin: 10px;
+}
